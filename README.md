@@ -1,4 +1,6 @@
-# Team Simulation - Server
+# Cohort Manager (Team Project)
+
+### Client-Side App: https://github.com/JohnXander/team-dev-client-c6
 
 ## Setting up
 
